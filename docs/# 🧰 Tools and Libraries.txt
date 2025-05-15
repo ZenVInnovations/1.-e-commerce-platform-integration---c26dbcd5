@@ -1,0 +1,15 @@
+# 🧰 Tools and Libraries
+
+## Languages and Frameworks
+- **JAVASCRIPT**, **MANGO DB** ,**EXPRESS.JS**, **NODE.JS**, **ANGULAR**,**REACT.JS**
+
+## Libraries Used
+- M: MongoDB (Database)
+- E: Express.js (Backend web framework)
+- A: Angular (Frontend framework)
+- N: Node.js (Server runtime environment)l
+
+## Tools
+- [draw.io](https://draw.io) – For creating system flowcharts
+- GitHub – Version control and project collaboration
+- VS Code – For deploying the final application
